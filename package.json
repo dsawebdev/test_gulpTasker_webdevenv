@@ -1,0 +1,27 @@
+{
+  "name": "test gulp tasker",
+  "version": "1.0.0",
+  "description": "Gulp Test",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "build"
+  },
+  "author": "Devon Anderson",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.3.1",
+    "del": "^3.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.0",
+    "@babel/preset-env": "^7.1.0",
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-html": "^0.5.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0"
+  }
+}
